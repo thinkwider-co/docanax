@@ -1,0 +1,22 @@
+# Prerequisites
+*.d
+
+# Visual Studio (Windows)
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.pdb
+
+# Xcode (macOS)
+build/
+DerivedData/
+*.moved-aside
+*.xcuserstate
+.DS_Store
+
+# Compiled Binaries
+#docanax
+#docanax.exe
